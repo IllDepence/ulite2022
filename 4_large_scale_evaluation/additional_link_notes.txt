@@ -1,0 +1,53 @@
+# ## starting point
+# #existing "linked" papers: 1,590
+# #existing reflinks: 13,975
+# #existing markers: 23,707
+# Cited papers from: 1743 – 2020
+#                    (mean 1996.2564547275786)
+#                    (median 1999.0)
+# 7,347 (74.08%) citing pprs from physics
+# 1,686 (17.00%) citing pprs from math
+# 789 (7.96%) citing pprs from cs
+# 39 (0.39%) citing pprs from q-bio
+# 21 (0.21%) citing pprs from stat
+# 21 (0.21%) citing pprs from eess
+# 10 (0.10%) citing pprs from q-fin
+# 4 (0.04%) citing pprs from econ
+
+# ## matching (paper level)
+# (1) added to citation graph:
+#   2,442 refs in
+#   1,443 unique papers
+# (2) newly bibliographicly coupled:
+#   53,940 refs in
+#   8,895 unique papers
+# (3) newly connected (=resolved or coupled):
+#   55,197 refs in
+#   8,931 unique papers
+
+# ## citation graph
+# linked 7,824 new in-text citation markers
+# in 1,401 unique citing papers
+
+# ## couplings
+# connected 219,630 new in-text citation markers
+# in 8,267 unique citing papers
+
+# ## connections
+# connected 227,454 new in-text citation markers
+# in 8,303 unique citing papers
+
+# ## increase
+# (1) citation graph
+# - papers:             1,590 + 1,443 -> 90.75% increase
+# - references:         13,975 + 2,442 -> 17.47% increase
+# - in-text markers:    23,707 + 7,824 -> 33.00% increase
+# (2) couplings
+# - papers:             1,590 vs 8,895 -> 5.59 times of linked
+# - references:         13,975 vs 53,940 -> 3.86 times of linked
+# - in-text markers:    23,707 vs 219,630 -> 9.26 times of linked
+#
+# (3) connected (=resolved or coupled)
+# - papers:             1,590 vs 8,931 -> 5.62 times of linked
+# - references:         13,975 vs 55,197 -> 3.95 times of linked
+# - in-text markers:    23,707 vs 227,454 -> 9.59 times of linked
